@@ -20,7 +20,7 @@ This project is a Node.js command-line application that takes a user input to ge
 
 ## Installation
 
-In order to install this project you must first clone the files from my github profile repository: [Link to GitHub Repository](https://github.com/Afrozez/weather-dashboard)
+In order to install this project you must first clone the files from my github profile repository: [Link to GitHub Repository](https://github.com/Afrozez/svg-logo-maker)
 
 ## Usage
 
@@ -30,7 +30,7 @@ To use this project first you must open the project folder and navigate to it in
 
 ## Contribution Guidelines
 
-If anyone would like to work on/add to this project it is recommended to first follow these steps: Pull the files from my GitHub Profile Repository: [https://github.com/Afrozez/professional-readme-generator.] Install Node.js version 16.20, and have a decent understanding of GitHub/Node.js.
+If anyone would like to work on/add to this project it is recommended to first follow these steps: Pull the files from my GitHub Profile Repository: [https://github.com/Afrozez/svg-logo-maker.] Install Node.js version 16.20, and have a decent understanding of GitHub/Node.js.
 
 ## Test Instructions
 
