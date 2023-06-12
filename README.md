@@ -42,5 +42,5 @@ This application is covered under: Apache License 2.0
 
 ## Questions
 
-If anyone has a question to ask they can reach me via email: [Email](mailto:LukeADenHartog@gmail.com).
+If anyone has a question to ask they can reach me via email: [LukeADenHartog@gmail.com](mailto:LukeADenHartog@gmail.com).
 My GitHub username is: Afrozez <https://github.com/Afrozez/>
