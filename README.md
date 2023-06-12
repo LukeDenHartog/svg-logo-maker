@@ -20,7 +20,7 @@ This project is a Node.js command-line application that takes a user input to ge
 
 ## Installation
 
-In order to install this project you must first clone the files from my github profile repository: https://github.com/Afrozez/weather-dashboard.
+In order to install this project you must first clone the files from my github profile repository: [Link to GitHub Repository](https://github.com/Afrozez/weather-dashboard)
 
 ## Usage
 
@@ -40,4 +40,5 @@ This application is covered under: Apache License 2.0
 
 ## Questions
 
- My GitHub username is: Afrozez <https://github.com/Afrozez/>
+If anyone has a question to ask they can reach me via email: [Email](mailto:LukeADenHartog@gmail.com).
+My GitHub username is: Afrozez <https://github.com/Afrozez/>
