@@ -24,6 +24,8 @@ In order to install this project you must first clone the files from my github p
 
 ## Usage
 
+Here is a link to a walkthrough video demonstrating how to use this program: [Link to Walkthrough Video](https://vimeo.com/835587044?share=copy)
+
 To use this project first you must open the project folder and navigate to it in the console. Once you are inside the program folder via the terminal enter the command "node index.js" to run the program. After you entered the text "node index.js" inside the terminal a series of questions will be asked. When the user is done asnwering the questions then a  new logo.svg file is created.
 
 ## Contribution Guidelines
@@ -32,7 +34,7 @@ If anyone would like to work on/add to this project it is recommended to first f
 
 ## Test Instructions
 
-I have not created any tests yet.
+In order to run tests on this application first go to the svg-logo-maker via the Terminal and then type "npm test" in the command line.
 
 ## License
 
