@@ -20,7 +20,7 @@ This project is a Node.js command-line application that takes a user input to ge
 
 ## Installation
 
-In order to install this project you must first clone the files from my github profile repository: [Link to GitHub Repository](https://github.com/Afrozez/svg-logo-maker)
+In order to install this project you must first clone the files from my github profile repository: [Link to GitHub Repository](https://github.com/Lukedenhartog/svg-logo-maker)
 
 ## Usage
 
@@ -30,7 +30,7 @@ To use this project first you must open the project folder and navigate to it in
 
 ## Contribution Guidelines
 
-If anyone would like to work on/add to this project it is recommended to first follow these steps: Pull the files from my GitHub Profile Repository: [https://github.com/Afrozez/svg-logo-maker.] Install Node.js version 16.20, and have a decent understanding of GitHub/Node.js.
+If anyone would like to work on/add to this project it is recommended to first follow these steps: Pull the files from my GitHub Profile Repository: [https://github.com//svg-logo-maker.] Install Node.js version 16.20, and have a decent understanding of GitHub/Node.js.
 
 ## Test Instructions
 
@@ -43,4 +43,4 @@ This application is covered under: Apache License 2.0
 ## Questions
 
 If anyone has a question to ask they can reach me via email: [LukeADenHartog@gmail.com](mailto:LukeADenHartog@gmail.com).
-My GitHub username is: Afrozez <https://github.com/Afrozez/>
+My GitHub username is: LukeDenHartog <https://github.com/LukeDenHartog/>
